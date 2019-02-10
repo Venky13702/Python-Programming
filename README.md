@@ -1,1 +1,3 @@
 # Python-Programming
+I am the great...
+Python is my mothertongue!
